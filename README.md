@@ -1,7 +1,7 @@
 @[TOC](使用imgaug图像数据增强库对影像上多个Bounding Boxes进行增强)
 
 # 简介
-该项目主要目的水通过imgaug来对图片进行数据增强
+该项目主要目的是通过imgaug来对图片进行数据增强
 
 作者：[ShulingTang]()
 
